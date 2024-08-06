@@ -1,0 +1,36 @@
+.skills-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .main-skills,
+  .other-skills {
+    width: 45%;
+  }
+  
+  .skill {
+    margin-bottom: 20px;
+  }
+  
+  .skill-bar {
+    width: 100%;
+    background-color: #e0e0e0;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .skill-level {
+    height: 100%;
+    background-color: #4caf50;
+  }
+  
+  .other-skill-box {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
