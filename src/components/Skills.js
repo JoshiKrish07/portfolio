@@ -29,7 +29,7 @@ function Skills() {
           <div className="other-skill-box">CSS</div>
           <div className="other-skill-box">jQuery</div>
           <div className='other-skill-box'>Bootstrap</div>
-          <div className="other-skill-box">Material UI</div>
+          <div className="other-skill-box">Angular</div>
         </div>
       </div>
     </section>
